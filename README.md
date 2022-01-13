@@ -3,6 +3,8 @@
 ###  <p align="right">Hi there 👋 😮
 ### <p align="center">Hi there 👋 😮
   ###  <p align="left">Hi there 👋 😮
+    ### <p align="center">Hi there 👋 😮
+  ###  <p align="right">Hi there 👋 😮
 <h1 align="center">Hi 👋, I'm alex</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alex414&label=Profile%20views&color=0e75b6&style=flat" alt="alex414" /> </p>
 
